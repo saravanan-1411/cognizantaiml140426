@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: ecommerce
+Version: 1.0.0
+Summary: Devoloping ecommerce application
+Author-email: saravanan <saravananmanikdm@gmail.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: faker>=13.3.4
