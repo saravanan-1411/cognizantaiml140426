@@ -1,0 +1,66 @@
+Customer ID : 1001
+First Name  : Amit
+Last Name   : Sharma
+Email       : amit.sharma@example.com
+Phone No    : 9876543210
+----------------------------------------
+Customer ID : 1002
+First Name  : Priya
+Last Name   : Iyer
+Email       : priya.iyer@example.com
+Phone No    : 9876543211
+----------------------------------------
+Customer ID : 1003
+First Name  : Rahul
+Last Name   : Verma
+Email       : rahul.verma@example.com
+Phone No    : 9876543212
+----------------------------------------
+Customer ID : 1004
+First Name  : Sneha
+Last Name   : Nair
+Email       : sneha.nair@example.com
+Phone No    : 9876543213
+----------------------------------------
+Customer ID : 1005
+First Name  : Vijay
+Last Name   : Kumar
+Email       : vijay.kumar@example.com
+Phone No    : 9876543214
+----------------------------------------
+Customer ID : 1006
+First Name  : Anita
+Last Name   : Patel
+Email       : anita.patel@example.com
+Phone No    : 9876543215
+----------------------------------------
+Customer ID : 1007
+First Name  : Rohit
+Last Name   : Singh
+Email       : rohit.singh@example.com
+Phone No    : 9876543216
+----------------------------------------
+Customer ID : 1008
+First Name  : Kavya
+Last Name   : Menon
+Email       : kavya.menon@example.com
+Phone No    : 9876543217
+----------------------------------------
+Customer ID : 1009
+First Name  : Suresh
+Last Name   : Rao
+Email       : suresh.rao@example.com
+Phone No    : 9876543218
+----------------------------------------
+Customer ID : 1010
+First Name  : Meena
+Last Name   : Das
+Email       : meena.das@example.com
+Phone No    : 9876543219
+----------------------------------------
+Customer ID : 1011
+First Name  : Arjun
+Last Name   : Pillai
+Email       : arjun.pillai@example.com
+Phone No    : 9876543220
+----------------------------------------

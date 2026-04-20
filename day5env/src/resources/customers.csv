@@ -1,0 +1,12 @@
+
+customer_id,first_name,last_name,email,phone_no
+1001,Amit,Sharma,amit.sharma@example.com,9876543210
+1002,Priya,Iyer,priya.iyer@example.com,9876543211
+1003,Rahul,Verma,rahul.verma@example.com,9876543212
+1004,Sneha,Nair,sneha.nair@example.com,9876543213
+1005,Vijay,Kumar,vijay.kumar@example.com,9876543214
+1006,Anita,Patel,anita.patel@example.com,9876543215
+1007,Rohit,Singh,rohit.singh@example.com,9876543216
+1008,Kavya,Menon,kavya.menon@example.com,9876543217
+1009,Suresh,Rao,suresh.rao@example.com,9876543218
+1010,Meena,Das,meena.das@example.com,9876543219
