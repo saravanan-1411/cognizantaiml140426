@@ -10,8 +10,10 @@ class Config:
         self.resource_path : str = self.get_resource_path()
     def get_resource_path(self) -> str:
         if self.app_env == "Production":
-            return f"src/resources/customer.json"
+            return f"src/resources/customers.json"
         elif self.app_env == "Development":
             return f"src/resources/customers.csv"
+        elif self.app_env == "Testing":
+            return f"src/resources/customers.txt"
         else:
-            return f"src/resources/resources/customers.txt"
+            raise ValueError(f"Invalid environment: {self.app_env}")
